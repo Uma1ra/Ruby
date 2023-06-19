@@ -3,7 +3,7 @@ apple = "Yamanashi"
 if apple == "Aomori"
   puts "このリンゴは青森産です。"
   
-elseif apple == "Nagano"
+elsif apple == "Nagano"
   puts "このリンゴは青森産ではなく、長野産です。"
   
 else
